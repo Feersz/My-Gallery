@@ -9,7 +9,9 @@
 - Html
 - Css
 - JavaScript
-- React 
+- React
+
+### DEMO: https://friendly-gumption-9f2529.netlify.app/
 
 
 ## Getting Started
@@ -43,7 +45,6 @@ To get a local copy up and running follow these simple example steps.
 ```sh
  npm start dev
 ```
- copy local link in browser
 
 ## Authors
 
